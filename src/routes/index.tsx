@@ -39,9 +39,6 @@ function Hero() {
         </header>
 
         <div className="pt-24 pb-32 md:pt-40 md:pb-56">
-          <p className="text-xs uppercase tracking-[0.24em] text-navy-foreground/50">
-            Jeremy Stryer · Executive Advisory
-          </p>
           <h1 className="mt-10 font-serif text-5xl leading-[1.02] tracking-tight md:text-7xl lg:text-[5.5rem]">
             Building US–Mexico
             <br />
@@ -88,7 +85,7 @@ function Thesis() {
               model was never designed for a distributed, cross-border team.
             </p>
             <p className="mt-10 max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-              The result is quiet friction — missed handoffs, escalating
+              The result is quiet friction. Missed handoffs, escalating
               decisions, duplicated work, and leaders who cannot explain why a
               capable team is not executing. This is the work.
             </p>
